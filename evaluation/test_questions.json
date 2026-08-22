@@ -1,0 +1,62 @@
+[
+  {
+    "question": "What are Kumud's technical skills?",
+    "expected": "SQL, PostgreSQL, Amazon S3, Boto3, Firebase, ETL, Python, Pandas, NumPy, Scikit-learn, Java, JavaScript, Power BI, DAX, Excel, Matplotlib, Seaborn, Git, GitHub, Gradio, Vercel, Render",
+    "type": "factual"
+  },
+  {
+    "question": "Where does Kumud study?",
+    "expected": "MIT World Peace University, Pune",
+    "type": "factual"
+  },
+  {
+    "question": "What degree is Kumud pursuing?",
+    "expected": "Bachelor of Computer Applications – Honors",
+    "type": "factual"
+  },
+  {
+    "question": "What is Kumud's CGPA?",
+    "expected": "9.05/10",
+    "type": "factual"
+  },
+  {
+    "question": "What internship experience does Kumud have?",
+    "expected": "JourneyStory, Full Stack Software Engineer Intern",
+    "type": "factual"
+  },
+  {
+    "question": "What projects has Kumud worked on?",
+    "expected": "AgroTrade AI and AURIS",
+    "type": "factual"
+  },
+  {
+    "question": "What is AgroTrade AI?",
+    "expected": "Agricultural Market Intelligence Platform for crop-price prediction and market intelligence",
+    "type": "factual"
+  },
+  {
+    "question": "How many agricultural records were used in AgroTrade AI?",
+    "expected": "6,300+ records",
+    "type": "factual"
+  },
+  {
+    "question": "Summarize Kumud's resume.",
+    "expected": "A summary of Kumud's education, technical skills, experience, projects, and achievements",
+    "type": "summary"
+  },
+  {
+    "question": "What programming languages does Kumud know?",
+    "expected": "Python, Java, JavaScript",
+    "type": "factual"
+  },
+  {
+    "question": "What is Kumud's favorite food?",
+    "expected": "Not found in the uploaded document",
+    "type": "out_of_document"
+  },
+  {
+    "question": "What is Kumud's date of birth?",
+    "expected": "Not found in the uploaded document",
+    "type": "out_of_document"
+  }
+]
